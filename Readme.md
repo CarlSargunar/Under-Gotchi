@@ -1,3 +1,3 @@
-# Under-Gotchi
+# UnderGotchi
 
-A Tamagotchi-like game in the Undertake universe.
+Undertale Tamagotchi
