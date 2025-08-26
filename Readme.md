@@ -15,4 +15,4 @@ This is a bunch of useful information you can use to look up or get help buildin
 ### Editors
 
 - Vs Code : https://arcade.makecode.com/vscode
-- 
+
