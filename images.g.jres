@@ -1,0 +1,18 @@
+{
+    "myImages.image1": {
+        "id": "myImages.image1",
+        "data": "hwQQABAAAAAAAAD/DwAAAAD//xHxAADw8BEREREP8P8f8f8REf8f8R/x/xEfHxEPH/ER8REf8QDwEf/xEf/xAAAfEfERH/EAAB8R8REf8QDwEf/xEf/xAB/xEfERH/EAH/H/ER8fEQ8f8f8REf8f8fARERERD/D/AP//EfEAAPAAAAD/DwAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "FroggitSprite"
+    },
+    "anim1": {
+        "id": "anim1",
+        "data": "YzgwMDEwMDAxMDAwMDMwMDAwZjBmZjAwMDBmZjBmMDAwMDFmMTEwZmYwMTFmMTAwZjAxMTExZjExZjExMTEwZmYwZjFmZjExMTFmZjFmMGZmMGYxMWYxZmYxZjExZjBmZjBmMTFmMWZmMWYxMWYwZjFmMTExMTExMTExMTExZjExZjExZjFmZmZmZmYxMWYxMWYxMTFmMTExMTExMWZmMWYwMTExMTExMTExMTExMGYwMGZmZmZmZmZmZmZmZjAwMDBmMDExMWZmMTExMGYwMDAwZjAxMTExMTExMTBmMDAwMDFmZjFmZmZmMWZmMTAwMDAxZjBmMDAwMGYwZjEwMGYwZmYwMDAwMDAwMGZmMGYwMGYwZmYwMDAwZmYwZjAwMDAxZjExMGZmMDExZjEwMGYwMTExMWYxMWYxMTExMGZmMGYxZmYxMTExZmYxZjBmZjBmMTFmMWZmMWYxMWYwZmYwZjExZjFmZjFmMTFmMGYxZjExMTExMTExMTExMWYxMWYxMWYxZmZmZmZmMTFmMTFmMTExZjExMTExMTFmZjFmMDExMTExMTExMTExMTBmMDBmZmZmZmZmZmZmZmYwMDAwZjAxMTFmZjExMTBmMDAwMGYwMTExMTExMTEwZjAwMDAxZmYxZmZmZjFmZjEwMDAwMWYwZjAwMDBmMGYxMDBmMGZmMDAwMDAwMDBmZjBmMDAwMDAwMDAwMDAwMDAwMDAwZmZmZjBmZjBmZmZmMDBmMDFmMTFmZmZmMTFmMTBmZjAxMTExZjExZjExMTEwZmYwZjFmZjExMTFmZjFmMGZmMGYxMWYxZmYxZjExZjBmZmZmMTFmMWZmMWYxMWZmZjFmMTExMTExMTExMTExZjExZjExZjFmZmZmZmYxMWYxMWYxMTFmMTExMTExMWZmMWYwMTExMTExMTExMTExMGYwMGZmZmZmZmZmZmZmZjAwMDBmMDExMWZmMTExMGYwMDAwMWZmMWZmZmYxZmYxMDAwMDFmMGYwMDAwZjBmMTAwZjBmZjAwMDAwMDAwZmYwZg==",
+        "dataEncoding": "base64",
+        "namespace": "myAnimations.",
+        "mimeType": "application/mkcd-animation",
+        "displayName": "Froggit"
+    }
+}

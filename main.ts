@@ -1,24 +1,20 @@
-/**
- * This is the main file for your project.
- *
- * Create images, tilemaps, animations, and songs using the
- * asset explorer in VS Code. You can reference those assets
- * using the tagged templates on the assets namespace:
- *
- *     assets.image`myImageName`
- *     assets.tilemap`myTilemapName`
- *     assets.tile`myTileName`
- *     assets.animation`myAnimationName`
- *     assets.song`mySongName`
- *
- * New to MakeCode Arcade? Try creating a new project using one
- * of the templates to learn about Sprites, Tilemaps, Animations,
- * and more! Or check out the reference docs here:
- *
- * https://arcade.makecode.com/reference
- */
+// Create a player sprite
+const PlayerKind = SpriteKind.create();
 
-game.onUpdate(() => {
-    // Code in this function will run once per frame. MakeCode
-    // Arcade games run at 30 FPS
-});
+scene.setBackgroundColor(9); // Set background color
+showControls();
+startGame();
+
+
+function showControls() {
+    // showLongText automatically pauses until A is pressed
+    game.showLongText("Move Froggit around", DialogLayout.Center);
+}
+
+// This is the main game function. Once it's started, while the game is running, this function will be running.
+function startGame() {
+    // Create the player sprite using the "Froggit" asset
+    const mySprite = sprites.create(assets.image`FroggitSprite`, PlayerKind);
+    animation.runImageAnimation(mySprite, assets.animation`Froggit`, 100, true);
+    controller.moveSprite(mySprite);
+}

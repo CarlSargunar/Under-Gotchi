@@ -2,6 +2,10 @@
 
 Undertale Tamagotchi
 
+## Weird behaviour
+
+When adding a new animation, you can't rename it initially. If you want to rename it, do it after you have created it. The name needs to be changed in the images.g.jres file as well as the images.g.ts file, but you have to be careful to only change it on the animation, not any namespaces or anything like that.
+
 
 ## References
 
